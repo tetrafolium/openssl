@@ -1,2 +1,3 @@
 inspecode:
-  fossid: default
+  fossid:
+    timeout: 5h
